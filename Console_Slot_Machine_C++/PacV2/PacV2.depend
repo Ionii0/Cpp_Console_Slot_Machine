@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1519556623 source:c:\users\home\desktop\pacv2\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<chrono>
+	<thread>
+	<MMsystem.h>
+	<cstdlib>
+	<mutex>
+
